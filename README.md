@@ -1,4 +1,4 @@
-### Hi there 👋
+I am a Software Engineer specializing in HTML, CSS, and JavaScript. I am currently enrolled in a software engineering bootcamp through Springboard. I am constantly learning new techniques and programming languages.
 
 <!--
 **NathanNewman/NathanNewman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
